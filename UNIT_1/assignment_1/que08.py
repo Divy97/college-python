@@ -1,6 +1,7 @@
 # 8. Write a Python program that will demonstrate the use of Sting Functions.
 
 stringValue = "Hello"
+
 print("capitalize(): ", stringValue.capitalize())
 print("count('l'): ", stringValue.count('l'))
 print("find('o'): ", stringValue.find('o'))
